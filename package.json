@@ -1,0 +1,29 @@
+{
+  "name": "karma-chai-factories",
+  "description": "Chai Factories plugin for Karma",
+  "keywords": [
+      "karma",
+    "chai",
+    "factories",
+    "mocha"
+  ],
+  "version": "0.1.0",
+  "author": "Leon Mergen <leon2solatis.com>",
+  "main": "./index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/solatis/karma-chai-factories",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/solatis/karma-chai-factories.git"
+  },
+  "bugs": {
+    "url": "https://github.com/solatis/karma-chai-factories/issues"
+  },
+  "dependencies": {
+    "chai-factories": "~0.1",
+    "path": "~0.4"
+  },
+  "peerDependencies": {
+    "karma": "~0.10"
+  }
+}
