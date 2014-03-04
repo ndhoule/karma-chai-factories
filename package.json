@@ -8,7 +8,7 @@
     "mocha"
   ],
   "version": "0.1.0",
-  "author": "Leon Mergen <leon2solatis.com>",
+  "author": "Leon Mergen <leon@solatis.com>",
   "main": "./index.js",
   "license": "MIT",
   "homepage": "https://github.com/solatis/karma-chai-factories",
