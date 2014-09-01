@@ -20,10 +20,10 @@
     "url": "https://github.com/solatis/karma-chai-factories/issues"
   },
   "dependencies": {
-    "chai-factories": "~0.1",
-    "path": "~0.4"
+    "chai-factories": "^0.1.0",
+    "path": "^0.4.0"
   },
   "peerDependencies": {
-    "karma": "~0.10"
+    "karma": ">=0.10.0"
   }
 }
